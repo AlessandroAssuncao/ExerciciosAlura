@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosAlura", "ExerciciosAlura.csproj", "{AAEF45E7-6DFD-45F2-9DD6-E92228A1A36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExercicosAlura", "..\TestExercicosAlura\TestExercicosAlura.csproj", "{FB3294DD-EB41-4F0B-8CF7-4BEB7D2B7D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEF45E7-6DFD-45F2-9DD6-E92228A1A36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEF45E7-6DFD-45F2-9DD6-E92228A1A36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEF45E7-6DFD-45F2-9DD6-E92228A1A36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEF45E7-6DFD-45F2-9DD6-E92228A1A36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3294DD-EB41-4F0B-8CF7-4BEB7D2B7D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3294DD-EB41-4F0B-8CF7-4BEB7D2B7D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3294DD-EB41-4F0B-8CF7-4BEB7D2B7D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3294DD-EB41-4F0B-8CF7-4BEB7D2B7D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099466B1-2B4F-4020-8C21-5EB6C4D60CFD}
+	EndGlobalSection
+EndGlobal
